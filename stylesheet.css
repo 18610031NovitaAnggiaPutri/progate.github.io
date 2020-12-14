@@ -66,7 +66,8 @@ li {
 }
 
 .contact-form {
-  padding: 100px 80px
+  margin-top: 150px;
+  padding: 150px 80px
 }
 
 /* Add CSS for <input> and <textarea> tags */
